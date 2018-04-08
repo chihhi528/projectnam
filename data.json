@@ -1,0 +1,46 @@
+{
+    "basics":{
+        "name":"lakshmi",
+        "email":"sonyaug23@gmail.com",
+        "mobile":"9876543222",
+        "address":"hydrabad"
+      },
+      "career":{
+        "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+      },
+      "education":[
+        {
+          "degree":"B-Tech",
+          "institute":"SVIT,Anantapur",
+          "date":["2016-20","75%"]
+        },
+        {
+          "degree":"Intermediate",
+          "institute":"sri chaitanya",
+          "date":["2013-15","80%"]
+        },
+        {
+          "degree":"S.S.C",
+          "institute":"sri chaitanya techno school",
+          "date":["2014","78%"]
+        }
+      ],
+      "skills":[
+        {
+          "sname":"Languges",
+          "sdata":["C","C++","Java"]
+      },
+      {
+        "sname":"DataBases",
+        "sdata":["oracle","Mysql ite","PDD"]
+      },
+    {
+    "sname":"Web Technology",
+    "sdata":["HTML","XML","CSS","PHP"]
+  },
+  {
+    "sname":"Operating System",
+    "sdata":["Linux","Windows","Unix"]
+  }
+]
+}
